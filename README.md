@@ -6,9 +6,11 @@ These will be PRIVATE repos so only you and I as course organiser can see what y
 
 ## Over the summer I want to ... 
 What's your goal for this course?
+To learn and understand the how to work into a team for software purposes.
 
 ## A big problem with group projects is ...
 What do you worry about with group projects?
+I am worrying about communication and effectiveness of the team.
 
 ## The best part of group projects is ...
 What do you see when it goes well?
